@@ -1,0 +1,21 @@
+# Ignore IDE and editor configurations
+.idea/
+*.iml
+nbproject/
+
+# Ignore build and output directories
+/target/
+/build/
+
+# Ignore temporary files and caches
+.rescache/
+*.log
+*.tmp
+
+# Ignore libraries or dependencies that shouldn't be committed
+/node_modules/
+lib/
+
+# Ignore other system-specific files
+.DS_Store
+Thumbs.db
