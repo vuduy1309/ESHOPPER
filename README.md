@@ -27,7 +27,9 @@ Installation:
 + Configure the server in the IDE using Apache Tomcat 10.1.
 + Deploy the application and start the server.
 + Access the application via http://localhost:3000/EShopper.
+
 License
+
 EShopper is released under the MIT license.
 
 See LICENSE for details.
